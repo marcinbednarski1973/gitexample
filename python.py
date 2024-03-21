@@ -5,4 +5,4 @@ c=10000
 print (a+b)
 print (a*b)
 print (a/b)
-print (a*a*a+b+a*b+c)
+print (a*a*a+b+a*b+c+c*b)
